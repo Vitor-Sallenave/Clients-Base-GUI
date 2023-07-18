@@ -15,7 +15,7 @@ public class Tabela extends JFrame {
 	
 	// Colunas de PessoaIMC
     private static String[] colPessoas = {"Nome", "Data de Nascimento",
-	"Peso", "Altura", "Genero", "Idade", "IMC", "Faixa - IMC"};
+	"Peso (kg)", "Altura (m)", "Genero", "Idade", "IMC", "Faixa - IMC"};
 	
 	// Linhas de PessoaIMC
 	private String[][] linPessoas;
